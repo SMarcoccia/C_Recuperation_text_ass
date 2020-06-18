@@ -1,0 +1,20 @@
+﻿# Le dossier des sprites.
+gfx/
+
+# Le dossier audio.
+sfx/
+
+# Le dossier .vscode
+.vscode
+
+# Tous les .dll
+*.dll
+
+# Tous les exécutable.
+*.exe
+
+# Tous les .o
+*.o
+
+# Le highscors;
+*.src
