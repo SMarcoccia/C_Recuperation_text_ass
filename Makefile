@@ -1,6 +1,6 @@
 
 CC = gcc
-CFLAG = -O3 -g -Wall -Werror -Wextra -DEBUG
+CFLAG = -O3 -g -Wall -Werror -Wextra -DDEBUG
 CCCOM = $(CC) $(CFLAG) -std=c11
 LDLIBS = -lmingw32 -lws2_32
 LDFLAGS = -L/mingw/lib
